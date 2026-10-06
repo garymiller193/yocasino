@@ -1,2 +1,3 @@
-# yocasino
-Landing published by Deploy Service
+# YoCasino
+
+Published by Deploy Service.
